@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+I started doing this on Sunday prior to logging this on Github. Since I've managed an hour each day until today so I'm going to count it. From now on though I'll have to log it in Github though.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: January 8, 2016
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Started the Tic Tac Toe app. Managed to get the gameboard to render and react when I click on each square.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts**: I've been reading You Don't Know JS for the past couple of weeks and not really programming. I decided it was time to get back to applying some of the knowledge I've retained. Also I want to see how well I can manage without jQuery and Bootstrap for these last two projects so they don't become a crutch.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work**: [UglyTicTacToe](http://codepen.io/YacYac/pen/jVdQEa)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: January 9, 2016
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Added a setup screen that let's a player choose which side they want to play as.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Today went fairly smoothly, but the interface is feeling really janky to me. Still adjusting to not relying on Bootstrap for some basic semblance of aesthetic quality.
 
+**Link to work**: [UglyTicTacToe](http://codepen.io/YacYac/pen/jVdQEa)
 
-### Day 1: June 27, Monday
+### Day 3: January 10, 2016
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Re-implemented the interface in Flexbox. Implemented the win conditions. Added a computer player. Submitted the completed project to FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I came across the great post, [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.9nij4zlfe), which helped me figure out how to lay out my UI much more smoothly. After that point, everything kind of came together really smoothly. On to the last project!
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work**: [UglyTicTacToe](http://codepen.io/YacYac/pen/jVdQEa)
+
+### Day 4: January 11, 2016
+
+**Today's Progress**: Got the basic's of Simon's UI up.
+
+**Thoughts**: Trying to overlap divs and get a decent looking Simon device. Went kind of slowly today.
+
+**Link to work**: [Simon](http://codepen.io/YacYac/pen/apNZZK)

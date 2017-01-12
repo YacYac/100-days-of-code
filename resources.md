@@ -2,6 +2,7 @@
 
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
+2. [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.9nij4zlfe)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
