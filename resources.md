@@ -3,6 +3,8 @@
 ## Helpful Articles
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 2. [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.9nij4zlfe)
+3. [A Beginner's Guide to Pure CSS Images](https://medium.com/dailycssimages/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.wehm7k2xb)
+4. [An Intermediate Guide to Pure CSS Images](https://medium.com/dailycssimages/an-intermediate-guide-to-pure-css-images-f058e2b30697#.nb192xkqr)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
