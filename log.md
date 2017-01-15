@@ -41,3 +41,11 @@ I started doing this on Sunday prior to logging this on Github. Since I've manag
 **Thoughts**: I took yesterday off from coding but did some reading on [pure CSS images](https://medium.com/dailycssimages/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.wehm7k2xb). Using that info I've reworked my Simon UI. The result feels more manageable and way less of a mess than my first try. 
 
 **Link to work**: [Simon](http://codepen.io/YacYac/pen/apNZZK)
+
+### Day 6: January 13, 2016
+
+**Today's Progress**: Finished UI layout
+
+**Thoughts**: Finished laying out the Simon game's UI. Today went pretty smooth. I'll spend tomorrow working on behaviour in JS.
+
+**Link to work**: [Simon](http://codepen.io/YacYac/pen/apNZZK)
