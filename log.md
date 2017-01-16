@@ -42,10 +42,18 @@ I started doing this on Sunday prior to logging this on Github. Since I've manag
 
 **Link to work**: [Simon](http://codepen.io/YacYac/pen/apNZZK)
 
-### Day 6: January 13, 2016
+### Day 6: January 14, 2016
 
 **Today's Progress**: Finished UI layout
 
 **Thoughts**: Finished laying out the Simon game's UI. Today went pretty smooth. I'll spend tomorrow working on behaviour in JS.
+
+**Link to work**: [Simon](http://codepen.io/YacYac/pen/apNZZK)
+
+### Day 7: January 15, 2016
+
+**Today's Progress**: Finished Simon project
+
+**Thoughts**: I ended up plowing through all of the JS work for the Simon game today. I probably spent about 8 or so hours on it. I've completed my Front End Certification with FreeCodeCamp!
 
 **Link to work**: [Simon](http://codepen.io/YacYac/pen/apNZZK)
