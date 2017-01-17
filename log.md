@@ -57,3 +57,11 @@ I started doing this on Sunday prior to logging this on Github. Since I've manag
 **Thoughts**: I ended up plowing through all of the JS work for the Simon game today. I probably spent about 8 or so hours on it. I've completed my Front End Certification with FreeCodeCamp!
 
 **Link to work**: [Simon](http://codepen.io/YacYac/pen/apNZZK)
+
+### Day 8: January 16, 2016
+
+**Today's Progress**: Started rebuilding my personal site.
+
+**Thoughts**: I was mostly re-reading You Don't Know JS - Scope & Closures today. React is next on FreeCodeCamp's list, but it seems like quite a big jump in some ways, and I'm not sure if I'm secured enough in my basic JS skills to jump up to it yet. So in the meantime I'm doing some basic work on rebuilding my personal site that I made in codepen as a static standalone site. I'm planning on not relying on jquery or bootstrap this time, much like I have been doing with my last few FCC projects.
+
+**Link to work**: [Personal Site](http://best-cherries.surge.sh)
