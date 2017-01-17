@@ -5,6 +5,8 @@
 2. [Understanding Flexbox: Everything you need to know](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.9nij4zlfe)
 3. [A Beginner's Guide to Pure CSS Images](https://medium.com/dailycssimages/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.wehm7k2xb)
 4. [An Intermediate Guide to Pure CSS Images](https://medium.com/dailycssimages/an-intermediate-guide-to-pure-css-images-f058e2b30697#.nb192xkqr)
+5. [Guide: Get Job ready with 1 FCC cert, 3 projects, 2 courses, and 10 books](https://forum.freecodecamp.com/t/computer-guide-get-job-ready-with-1-fcc-cert-3-projects-2-courses-and-10-books/64027)
+6. [Guide: Computer Science and Web Development - comprehensive path](https://forum.freecodecamp.com/t/computer-guide-computer-science-and-web-development-comprehensive-path/64470)
 
 ## Projects and Ideas
 1. [FreeCodeCamp](https://www.freecodecamp.com)
