@@ -65,3 +65,11 @@ I started doing this on Sunday prior to logging this on Github. Since I've manag
 **Thoughts**: I was mostly re-reading You Don't Know JS - Scope & Closures today. React is next on FreeCodeCamp's list, but it seems like quite a big jump in some ways, and I'm not sure if I'm secured enough in my basic JS skills to jump up to it yet. So in the meantime I'm doing some basic work on rebuilding my personal site that I made in codepen as a static standalone site. I'm planning on not relying on jquery or bootstrap this time, much like I have been doing with my last few FCC projects.
 
 **Link to work**: [Personal Site](http://best-cherries.surge.sh)
+
+### Day 9: January 17, 2016
+
+**Today's Progress**: Started refactoring Simon game.
+
+**Thoughts**: After finishing re-reading Scopes & Closures I decided to refactor my Simon game. I'm putting most of the global variables inside of a simon module. I managed to reimplement the power on and off functionality so far. It's definitely more code, but the design does seem cleaner in many ways.
+
+**Link to work**: [Simon](http://codepen.io/YacYac/pen/apNZZK)
