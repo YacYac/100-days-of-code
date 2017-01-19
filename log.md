@@ -72,4 +72,12 @@ I started doing this on Sunday prior to logging this on Github. Since I've manag
 
 **Thoughts**: After finishing re-reading Scopes & Closures I decided to refactor my Simon game. I'm putting most of the global variables inside of a simon module. I managed to reimplement the power on and off functionality so far. It's definitely more code, but the design does seem cleaner in many ways.
 
-**Link to work**: [Simon](http://codepen.io/YacYac/pen/apNZZK)
+**Link to work**: [Simon-Refactor](http://codepen.io/YacYac/pen/qRqwYL)
+
+### Day 10: January 18, 2016
+
+**Today's Progress**: Finished refactoring Simon game.
+
+**Thoughts**: After starting on it yesterday, I dug into refactoring my Simon game to move all of the global variables and much of the state, I think, into a javascript module. It was kind of challanging diving back into finished code to pull it back apart and re-implement working features. I think in the end the design of the code is much clearer now. Though the JS did end up going from 261 lines of code to 352 lines in the refactoring. I think I'm mostly done with the Simon project for now. I do have a few minor CSS changes I want to get to at some point though.
+
+**Link to work**: [Simon-Refactor](http://codepen.io/YacYac/pen/qRqwYL)
