@@ -18,6 +18,7 @@
 ## Tools
 1. [cntr](https://github.com/nsgonultas/cntr): A command line day counter to track your progress easily
 2. [Eric Meyer's Reset CSS](http://meyerweb.com/eric/tools/css/reset/)
+3. [Algorithm Visualizer by Jason Park](http://algo-visualizer.jasonpark.me)
 
 ## Books (both coding and non-coding)
 
