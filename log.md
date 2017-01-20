@@ -81,3 +81,11 @@ I started doing this on Sunday prior to logging this on Github. Since I've manag
 **Thoughts**: After starting on it yesterday, I dug into refactoring my Simon game to move all of the global variables and much of the state, I think, into a javascript module. It was kind of challanging diving back into finished code to pull it back apart and re-implement working features. I think in the end the design of the code is much clearer now. Though the JS did end up going from 261 lines of code to 352 lines in the refactoring. I think I'm mostly done with the Simon project for now. I do have a few minor CSS changes I want to get to at some point though.
 
 **Link to work**: [Simon-Refactor](http://codepen.io/YacYac/pen/qRqwYL)
+
+### Day 11: January 19, 2016
+
+**Today's Progress**: Worked on personal site.
+
+**Thoughts**: I worked on doing a standalone version of my portfolio site today that doesn't need to use codepen.
+
+**Link to work**: [Personal Site](http://best-cherries.surge.sh)
