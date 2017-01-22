@@ -89,3 +89,11 @@ I started doing this on Sunday prior to logging this on Github. Since I've manag
 **Thoughts**: I worked on doing a standalone version of my portfolio site today that doesn't need to use codepen.
 
 **Link to work**: [Personal Site](http://best-cherries.surge.sh)
+
+### Day 12: January 21, 2016
+
+**Today's Progress**: Worked on personal site.
+
+**Thoughts**: Added background colors to sections, played around with heading sizes and added contact icons to my contact section. Doesn't seem like a lot for 90 minutes of work.
+
+**Link to work**: [Personal Site](http://best-cherries.surge.sh)
